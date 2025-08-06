@@ -1,0 +1,11 @@
+Se lanseaza Command Prompt ca Administrator
+Apoi CD in directorul VS2019\Service\Service\Service\Debug
+
+install.bat -> instaleaza serviciul
+Serviciul se starteaza manual din Control Panel -> Administrativ Tools -> Services
+
+Numele serviciului: Info Service - Laborator API
+
+remove.bat -> dezinstaleaza serviciul
+
+Testarea serviciului se face cu VS2019\Service\Service\Client\Debug\Client.exe

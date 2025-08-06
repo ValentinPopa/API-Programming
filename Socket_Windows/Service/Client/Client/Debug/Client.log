@@ -1,0 +1,3 @@
+﻿  InfoClient.C
+D:\ProjectAPI\_2024\L7\VS2019\Tema\Service-procese\InfoClient.C(31,7): warning C4013: 'gets' undefined; assuming extern returning int
+  Client.vcxproj -> D:\ProjectAPI\_2024\L7\VS2019\Tema\Service-procese\Service\Client\Debug\Client.exe

@@ -1,0 +1,4 @@
+D:\Facultate\API-2022\L8\L8\Exemple\VS2019\TCPServer\Debug\TCPServer.exe
+D:\Facultate\API-2023\L8\L8\Exemple\VS2019\TCPServer\Debug\TCPServer.exe
+D:\Facultate\Cursuri 2024\API-2024\L8\L8\Exemple\VS2022\TCPServer\Debug\TCPServer.exe
+C:\Users\popav\OneDrive\Desktop\L8\Exemple\VS2022\TCPServer\Debug\TCPServer.exe

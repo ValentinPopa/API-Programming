@@ -1,0 +1,2 @@
+Service.exe -install
+pause

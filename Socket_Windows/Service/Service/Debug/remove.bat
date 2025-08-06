@@ -1,0 +1,2 @@
+Service.exe -remove
+pause

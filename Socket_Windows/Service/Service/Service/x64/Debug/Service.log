@@ -1,0 +1,10 @@
+﻿  InfoService.C
+  SERVICE.C
+C:\Users\popav\OneDrive\Desktop\Service-procese\InfoService.C(264,21): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+InfoService.obj : error LNK2019: unresolved external symbol inet_ntoa referenced in function IP
+InfoService.obj : error LNK2019: unresolved external symbol gethostbyname referenced in function IP
+InfoService.obj : error LNK2019: unresolved external symbol gethostname referenced in function HostName
+InfoService.obj : error LNK2019: unresolved external symbol WSAStartup referenced in function ServiceStart
+InfoService.obj : error LNK2019: unresolved external symbol WSACleanup referenced in function ServiceStop
+C:\Users\popav\OneDrive\Desktop\Service-procese\Service\Service\x64\Debug\Service.exe : fatal error LNK1120: 5 unresolved externals
